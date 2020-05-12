@@ -1,0 +1,13 @@
+{
+  "name": "reddit_search_app",
+  "version": "1.0.0",
+  "description": "Search article in reddit ",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mahmoud Amine Kanzari",
+  "license": "ISC"
+}
